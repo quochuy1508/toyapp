@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails toyapp: test" uuid="f39d7a07-d03b-4636-9b64-17cec7d547c9">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+    </data-source>
+    <data-source name="Rails toyapp: development" uuid="28b2a896-72d5-4c6b-830f-76e7fd1bac8b">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+    </data-source>
+    <data-source name="Rails toyapp: production" uuid="73136399-c534-452f-b035-22dc57b7b1ee">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>toyapp</user-name>
+    </data-source>
+  </component>
+</project>
